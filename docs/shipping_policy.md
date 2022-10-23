@@ -16,5 +16,3 @@ All of the packages will be insured. On qualified orders, you are protected agai
 In the event that a shipment must be replaced, you can recover the value of the original damaged/lost/stolen item.
 
 To expedite the process, submit your claims directly from our customer service administrator (which takes only a few minutes).
-
-Please contact us through customerservicehq.com.
