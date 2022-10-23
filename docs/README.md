@@ -1,0 +1,11 @@
+# Policy
+
+>[SHIPPING POLICY](shipping_policy.md)
+
+>[TERMS OF SERVICE](terms_of_service.md)
+
+>[PRIVACY POLICY](privacy_policy.md)
+
+>[RETURN POLICY](return_policy.md)
+
+>[FAQ](faq.md)
